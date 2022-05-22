@@ -1,0 +1,23 @@
+#Nav {
+    text-decoration: none;
+    padding: 20px;
+}
+
+#divNav {
+    padding: 20px;
+    /* margin-left: 200px; */
+}
+
+#spannames {
+    color: black;
+    padding:5px;
+}
+
+#btnlogout {
+    font-size: 10px;
+    width: 70px;
+}
+.form-outline{
+    margin-top: -30px;
+    margin-left:230px;
+}
